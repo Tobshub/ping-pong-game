@@ -34,7 +34,7 @@ body {
     text-align: right;
     border-right: .5vh solid var(--foreground-color);
 }
-.racket {
+.paddle {
     position: absolute;
     background-color: var(--foreground-color);
     width: 2vh;
